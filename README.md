@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welocome to SCI 👋
 
 <!--
 **Smart-Connect-Industry/Smart-Connect-Industry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
