@@ -205,6 +205,11 @@ Este documento pretende estandarizar la escritura de código C/C++ en los proyec
 # Optimizaciones y seguridad
 * Evitar el uso de memoria dinámica y más si se está usando algún RTOS
 * Para variables que interactúan con hardware o ISRs (Interrupt Service Routines) es obligatorio usar el prefijo ```volatile```
+# Versionado
+* Usar el versionado semántico: MAJOR.MINOR.PATCH
+  - MAJOR (v1.x.x): Incrementa cuando hay cambios incompatibles con versiones anteriores.
+  - MINOR (v1.1.x): Icrementa cuando se agregan nuevas funcionalidades de manera retrocompatible, sin afectar las características existentes.
+  - PATCH (v1.1.1): Incrementa cuando se corrigen errores o se realizan pequeños ajustes que no afectan la compatibilidad ni añaden nuevas funcionalidades.
 # Clang format
 * Use el siguiente clang-format
   ```Cpp
