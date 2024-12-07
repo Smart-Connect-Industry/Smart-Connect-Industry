@@ -1,4 +1,4 @@
-## Welocome to SCI 👋
+## Bienvenido a SCI 👋
 
 # Documentos importantes
 1. sci-coding-guidelines.md
